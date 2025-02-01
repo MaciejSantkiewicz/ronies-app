@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Kurw2323a1")
+st.title("Kur3w2323a1")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Let's start building! For help and inspir."
 )
